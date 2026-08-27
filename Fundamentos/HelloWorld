@@ -1,0 +1,16 @@
+using System;
+// Importa recursos básicos do .NET, incluindo a classe Console.
+
+namespace PrimeiroProjetoCSharp
+// Define um espaço de organização do código.
+{
+    class Program
+    // Cria a classe principal do programa.
+    {
+        static void Main(string[] args)
+        // Método principal. A execução do programa começa aqui.
+        {
+            Console.WriteLine("Ola, mundo.");
+        }
+    }
+}
