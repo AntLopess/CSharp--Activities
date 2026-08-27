@@ -1,0 +1,51 @@
+using System;
+using System.Drawing;
+namespace TiposDeDados
+{
+    class TiposDeDados
+    {
+        static void Main(string[] args)
+        {
+            /*a) Peça ao usuário para digitar um número inteiro e armazene-o em uma
+            variável int.Em seguida, exiba o valor da variável na tela.*/
+            Console.WriteLine("Digite um numero inteiro: ");
+            int i = int.Parse(Console.ReadLine());
+            Console.WriteLine("Numero inteiro: " + i);
+
+            /*b) Peça ao usuário para digitar um número real e armazene-o em uma variável
+            double. Em seguida, exiba o valor da variável na tela.*/
+            Console.WriteLine("Digite um numero real: ");
+            double d = double.Parse(Console.ReadLine());
+            Console.WriteLine("Numero real: " + d);
+
+            /*c) Peça ao usuário para digitar um número de ponto flutuante e armazene-o em
+            uma variável float. Em seguida, exiba o valor da variável na tela.*/
+            Console.WriteLine("Digite um numero flutuante: ");
+            float f = float.Parse(Console.ReadLine());
+            Console.WriteLine("Numero flutuante: " + f);
+
+            /*d) Peça ao usuário para digitar sim ou não e armazene-o em uma variável
+            bool. Em seguida, exiba o valor da variável na tela.*/
+            Console.WriteLine("Digite sim ou nao: ");
+            string resposta = Console.ReadLine();
+            bool b = false;
+            if(resposta.ToLower() == "sim")
+            {
+                b = true;
+            }
+            Console.WriteLine("Valor booleano: " + b);
+
+            /*e) Peça ao usuário para digitar um caractere e armazene-o em uma variável
+            char. Em seguida, exiba o valor da variável na tela.*/
+            Console.WriteLine("Digite um caractere: ");
+            char c = char.Parse(Console.ReadLine());
+            Console.WriteLine("Valor char: " + c);
+
+            /*f) Peça ao usuário para digitar um número decimal e armazene-o em uma
+            variável decimal. Em seguida, exiba o valor da variável na tela.*/
+            Console.WriteLine("Digite um numero decimal: ");
+            decimal d1 = decimal.Parse(Console.ReadLine());
+            Console.WriteLine("Numero decimal: " + d1);
+        }
+    }
+}
