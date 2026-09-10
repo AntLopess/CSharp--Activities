@@ -1,5 +1,4 @@
 using System;
-using System.Drawing;
 namespace TiposDeDados
 {
     class TiposDeDados
@@ -11,18 +10,27 @@ namespace TiposDeDados
             Console.WriteLine("Digite um numero inteiro: ");
             int i = int.Parse(Console.ReadLine());
             Console.WriteLine("Numero inteiro: " + i);
+            Console.WriteLine("---------------Pressione Enter para prosseguir----------------");
+            Console.ReadLine();
+            Console.Clear();
 
             /*b) Peça ao usuário para digitar um número real e armazene-o em uma variável
             double. Em seguida, exiba o valor da variável na tela.*/
             Console.WriteLine("Digite um numero real: ");
             double d = double.Parse(Console.ReadLine());
             Console.WriteLine("Numero real: " + d);
+            Console.WriteLine("---------------Pressione Enter para prosseguir----------------");
+            Console.ReadLine();
+            Console.Clear();
 
             /*c) Peça ao usuário para digitar um número de ponto flutuante e armazene-o em
             uma variável float. Em seguida, exiba o valor da variável na tela.*/
             Console.WriteLine("Digite um numero flutuante: ");
             float f = float.Parse(Console.ReadLine());
             Console.WriteLine("Numero flutuante: " + f);
+            Console.WriteLine("---------------Pressione Enter para prosseguir----------------");
+            Console.ReadLine();
+            Console.Clear();
 
             /*d) Peça ao usuário para digitar sim ou não e armazene-o em uma variável
             bool. Em seguida, exiba o valor da variável na tela.*/
@@ -34,18 +42,80 @@ namespace TiposDeDados
                 b = true;
             }
             Console.WriteLine("Valor booleano: " + b);
+            Console.WriteLine("---------------Pressione Enter para prosseguir----------------");
+            Console.ReadLine();
+            Console.Clear();
 
             /*e) Peça ao usuário para digitar um caractere e armazene-o em uma variável
             char. Em seguida, exiba o valor da variável na tela.*/
             Console.WriteLine("Digite um caractere: ");
             char c = char.Parse(Console.ReadLine());
             Console.WriteLine("Valor char: " + c);
+            Console.WriteLine("---------------Pressione Enter para prosseguir----------------");
+            Console.ReadLine();
+            Console.Clear();
 
             /*f) Peça ao usuário para digitar um número decimal e armazene-o em uma
             variável decimal. Em seguida, exiba o valor da variável na tela.*/
             Console.WriteLine("Digite um numero decimal: ");
             decimal d1 = decimal.Parse(Console.ReadLine());
             Console.WriteLine("Numero decimal: " + d1);
+            Console.WriteLine("---------------Pressione Enter para prosseguir----------------");
+            Console.ReadLine();
+            Console.Clear();
+
+            /*g) Peça ao usuário para digitar o seu nome e a sua idade, e armazene-os em
+            variáveis string e int, respectivamente. Em seguida, exiba essas informações
+            na tela.*/
+            Console.WriteLine("Digite seu nome:");
+            string nome = Console.ReadLine();
+            Console.WriteLine("Digite sua idade:");
+            int idade = int.Parse(Console.ReadLine());
+            Console.WriteLine("O usuario " + nome + " tem " + idade + " anos de idade.");
+            Console.WriteLine("---------------Pressione Enter para prosseguir----------------");
+            Console.ReadLine();
+            Console.Clear();
+
+            /*h) Peça ao usuário para digitar o preço de um produto e o seu desconto em
+            porcentagem, e armazene-os em variáveis double. Em seguida, calcule o
+            preço final com o desconto e exiba-o na tela.*/
+            Console.WriteLine("Digite o preço do produto:");
+            double preco = double.Parse(Console.ReadLine());
+            double valor = preco;
+            Console.WriteLine("Digite a porcentagem do desconto: ");
+            double desconto = double.Parse(Console.ReadLine());
+            preco = preco / desconto;
+            valor = valor - preco;
+            Console.WriteLine("O valor total do produto ja com desconto sera de: R$" + valor);
+            Console.WriteLine("---------------Pressione Enter para prosseguir----------------");
+            Console.ReadLine();
+            Console.Clear();
+
+            /*i) Peça ao usuário para digitar uma palavra e armazene-a em uma variável
+            string. Em seguida, exiba o comprimento da palavra na tela.*/
+            Console.WriteLine("Digite uma palavra e o programa falara o tamanho dela.");
+            string palavra = Console.ReadLine();
+            Console.WriteLine("O tamanho da palavra é de " + palavra.Length + " caracteres.");
+            Console.WriteLine("---------------Pressione Enter para prosseguir----------------");
+            Console.ReadLine();
+            Console.Clear();
+
+            /*j) Peça ao usuário para digitar o seu endereço completo, incluindo o número da
+            casa, rua, bairro, cidade e estado. Armazene cada informação em uma
+            variável string e, em seguida, exiba todas as informações juntas em uma
+            única linha.*/
+            Console.Write("Digite o número da casa: ");
+            string numero = Console.ReadLine();
+            Console.Write("Digite a rua: ");
+            string rua = Console.ReadLine();
+            Console.Write("Digite o bairro: ");
+            string bairro = Console.ReadLine();
+            Console.Write("Digite a cidade: ");
+            string cidade = Console.ReadLine();
+            Console.Write("Digite o estado: ");
+            string estado = Console.ReadLine();
+            Console.WriteLine("\nEndereço completo: " + rua + ", " + numero + ", " + bairro + ", " + cidade + " - " + estado);
+        
         }
     }
 }
