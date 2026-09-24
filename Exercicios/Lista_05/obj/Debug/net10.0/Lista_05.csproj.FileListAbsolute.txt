@@ -1,0 +1,14 @@
+C:\Users\EBB2NL316\Documents\Lista 5\Lista_04\Lista_04\bin\Debug\net10.0\Lista_05.exe
+C:\Users\EBB2NL316\Documents\Lista 5\Lista_04\Lista_04\bin\Debug\net10.0\Lista_05.deps.json
+C:\Users\EBB2NL316\Documents\Lista 5\Lista_04\Lista_04\bin\Debug\net10.0\Lista_05.runtimeconfig.json
+C:\Users\EBB2NL316\Documents\Lista 5\Lista_04\Lista_04\bin\Debug\net10.0\Lista_05.dll
+C:\Users\EBB2NL316\Documents\Lista 5\Lista_04\Lista_04\bin\Debug\net10.0\Lista_05.pdb
+C:\Users\EBB2NL316\Documents\Lista 5\Lista_04\Lista_04\obj\Debug\net10.0\Lista_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBB2NL316\Documents\Lista 5\Lista_04\Lista_04\obj\Debug\net10.0\Lista_05.AssemblyInfoInputs.cache
+C:\Users\EBB2NL316\Documents\Lista 5\Lista_04\Lista_04\obj\Debug\net10.0\Lista_05.AssemblyInfo.cs
+C:\Users\EBB2NL316\Documents\Lista 5\Lista_04\Lista_04\obj\Debug\net10.0\Lista_05.csproj.CoreCompileInputs.cache
+C:\Users\EBB2NL316\Documents\Lista 5\Lista_04\Lista_04\obj\Debug\net10.0\Lista_05.dll
+C:\Users\EBB2NL316\Documents\Lista 5\Lista_04\Lista_04\obj\Debug\net10.0\refint\Lista_05.dll
+C:\Users\EBB2NL316\Documents\Lista 5\Lista_04\Lista_04\obj\Debug\net10.0\Lista_05.pdb
+C:\Users\EBB2NL316\Documents\Lista 5\Lista_04\Lista_04\obj\Debug\net10.0\Lista_05.genruntimeconfig.cache
+C:\Users\EBB2NL316\Documents\Lista 5\Lista_04\Lista_04\obj\Debug\net10.0\ref\Lista_05.dll
