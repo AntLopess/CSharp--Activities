@@ -1,0 +1,18 @@
+using Lista_05.Exercicios;
+
+namespace Lista_05
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string continuar = " ";
+            while (continuar != "sim")
+            {
+                MenuDeAtividades.Menu.Executar();
+                Console.WriteLine("Voce deseja sair?");
+                continuar = Console.ReadLine();
+            }
+        }
+    }
+}
