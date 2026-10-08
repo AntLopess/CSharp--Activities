@@ -1,0 +1,16 @@
+C:\Projetos c#\PetShopForms\PetShopForms\bin\Debug\net8.0-windows\PetShopForms.exe
+C:\Projetos c#\PetShopForms\PetShopForms\bin\Debug\net8.0-windows\PetShopForms.deps.json
+C:\Projetos c#\PetShopForms\PetShopForms\bin\Debug\net8.0-windows\PetShopForms.runtimeconfig.json
+C:\Projetos c#\PetShopForms\PetShopForms\bin\Debug\net8.0-windows\PetShopForms.dll
+C:\Projetos c#\PetShopForms\PetShopForms\bin\Debug\net8.0-windows\PetShopForms.pdb
+C:\Projetos c#\PetShopForms\PetShopForms\obj\Debug\net8.0-windows\PetShopForms.Form1.resources
+C:\Projetos c#\PetShopForms\PetShopForms\obj\Debug\net8.0-windows\PetShopForms.csproj.GenerateResource.cache
+C:\Projetos c#\PetShopForms\PetShopForms\obj\Debug\net8.0-windows\PetShopForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos c#\PetShopForms\PetShopForms\obj\Debug\net8.0-windows\PetShopForms.AssemblyInfoInputs.cache
+C:\Projetos c#\PetShopForms\PetShopForms\obj\Debug\net8.0-windows\PetShopForms.AssemblyInfo.cs
+C:\Projetos c#\PetShopForms\PetShopForms\obj\Debug\net8.0-windows\PetShopForms.csproj.CoreCompileInputs.cache
+C:\Projetos c#\PetShopForms\PetShopForms\obj\Debug\net8.0-windows\PetShopForms.dll
+C:\Projetos c#\PetShopForms\PetShopForms\obj\Debug\net8.0-windows\refint\PetShopForms.dll
+C:\Projetos c#\PetShopForms\PetShopForms\obj\Debug\net8.0-windows\PetShopForms.pdb
+C:\Projetos c#\PetShopForms\PetShopForms\obj\Debug\net8.0-windows\PetShopForms.genruntimeconfig.cache
+C:\Projetos c#\PetShopForms\PetShopForms\obj\Debug\net8.0-windows\ref\PetShopForms.dll
